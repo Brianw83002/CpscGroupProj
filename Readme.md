@@ -8,8 +8,11 @@ elements like whitespace and comments. The program should classify lexemes intot
 **Objective:** Develop a lexical analysis tool that simulates the first phase of a compiler. Understand how tokenization and pattern recognition work in programming languages. Learn to handle comments and whitespace efficiently.
 
 **Project Requirements:**
+
 ● Read an input .txt file containing source code.
+
 ● Remove unnecessary elements like whitespace and comments (// and / */).
+
 ● Identify and classify lexemes into the following token categories: Keywords (e.g., if, return, int) Operators (e.g., +, -, >=, !=) Separators (e.g., {, }, (, ), Identifiers (e.g., variable_name, counter) Literals (e.g., 42, "Hello") Output the tokenized format in the form <lexeme> = <token> Ensure correct handling of different lexeme types using regular expressions.
 
 ## Example Input: 
