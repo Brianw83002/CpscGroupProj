@@ -3,7 +3,7 @@
 
 # CPSC 323 - PROJECT 1
 **Project Description:** In this project, you will build a Lexical Analyzer that reads a .txt file containing code snippets and tokenizes the input while removing unnecessary
-elements like whitespace and comments. The program should classify lexemes intotokens(keywords, operators, identifiers, separators, literals) and output them in a structured format.
+elements like whitespace and comments. The program should classify lexemes into tokens (keywords, operators, identifiers, separators, literals) and output them in a structured format.
 
 **Objective:** Develop a lexical analysis tool that simulates the first phase of a compiler. Understand how tokenization and pattern recognition work in programming languages. Learn to handle comments and whitespace efficiently.
 
@@ -34,5 +34,6 @@ elements like whitespace and comments. The program should classify lexemes intot
 ## What you’ll need to submit:
 ● Screenshot of Correct Output (20 points)
 ● PDF Report (Max 2 Pages) including: Explanation of code functionality
-Tokenization methodology Time and space complexity analysis (30 points)
+Tokenization methodology, Time and space complexity analysis (30 points)
+
 By the end of this project, you
