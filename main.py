@@ -108,7 +108,7 @@ def tokenize(code):
 def main():
 
     ######################### Change File name ################
-    file_name = "helloWorld.txt"  
+    file_name = "TestFiles/helloWorld.txt"  
     ###########################################################
 
     with open(file_name, "r") as f:
