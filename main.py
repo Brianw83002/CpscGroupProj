@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# Prog1.py - Predictive parser tracer for given grammar and parsing table.
+
 # Stack is printed with quotes like ['$', 'Q', 'R']
 # Output matches assignment style.
 
