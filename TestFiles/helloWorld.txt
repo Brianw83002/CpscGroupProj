@@ -1,6 +1,0 @@
-
-int main() {
-    string message = "Hello, World";
-
-    return 0;  
-}
